@@ -1,0 +1,11 @@
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\bin\Debug\net9.0\XOXCore.deps.json
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\bin\Debug\net9.0\XOXCore.dll
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\bin\Debug\net9.0\XOXCore.pdb
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\obj\Debug\net9.0\XOXCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\obj\Debug\net9.0\XOXCore.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\obj\Debug\net9.0\XOXCore.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\obj\Debug\net9.0\XOXCore.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\obj\Debug\net9.0\XOXCore.dll
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\obj\Debug\net9.0\refint\XOXCore.dll
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\obj\Debug\net9.0\XOXCore.pdb
+C:\Users\musta\OneDrive\Desktop\XOX_Solution\XOXCore\obj\Debug\net9.0\ref\XOXCore.dll
